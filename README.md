@@ -1,8 +1,24 @@
-# React + Vite
+# Tic-Tac-Toe Game
+This project is built on `HTML`, `CSS`, `JavaScript` and `React.js`.It is responsive for different devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Install React App Using Vite :-
+```
+npm create vite@latest
+```
+## Install Node-Module :-
+```
+npm i
+```
+## Used React-Icon Package :-
+```
+npm install @react-icons/all-files
+```
+## Features :-
+- Responsive design.
+- Better UI design.
+- Conditional rendering feature used.
 
-Currently, two official plugins are available:
+## Demo Image :-
+![Demo]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+😊 Thanks for visiting here 👍👍
