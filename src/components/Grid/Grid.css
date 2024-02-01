@@ -1,0 +1,21 @@
+.grid{
+    /* border: 1px solid red; */
+    width:400px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+.reset{
+    padding: 4px 6px;
+    background-color: rgb(220, 212, 227);
+    color: black;
+    font-size: 12px;
+    border: 2px solid black;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
